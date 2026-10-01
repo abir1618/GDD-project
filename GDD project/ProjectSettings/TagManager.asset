@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Arrow
+  - Water
+  - Enemy
+  - Clip
+  - EnemyArrow
+  - Orange
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ok
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background 2
+    uniqueID: 855234543
+    locked: 0
+  - name: background 1
+    uniqueID: 3790386813
+    locked: 0
+  - name: foreground
+    uniqueID: 4271585085
+    locked: 0
+  - name: Water
+    uniqueID: 382551035
+    locked: 0
+  - name: ground
+    uniqueID: 2675110657
+    locked: 0
+  - name: player
+    uniqueID: 3831624751
+    locked: 0
+  - name: Grass
+    uniqueID: 2427577673
+    locked: 0

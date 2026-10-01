@@ -1,0 +1,6540 @@
+fileFormatVersion: 2
+guid: b8264775a44fc5e498d7193e87868679
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green moss and rocky walls_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1605
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad915e15fe99cf54f9c8b1223e1af8f4
+      internalID: -254796563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1605
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c6b3d7dbe0b2744a50456133ed2c17
+      internalID: -1418415653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1605
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd93bef6ffaeff945bd890b5f4164c6b
+      internalID: -1302611243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1605
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216cb98e40eb8cb4396ed4f97cd8b318
+      internalID: 18189702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1605
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9dc7742bd2dab4b839e87f8252cf42
+      internalID: 408649654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_5
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1605
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71280a43f233efb4c82fa98c17811d4d
+      internalID: -326132055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1605
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dd678c1fba1a843ba5de1fdea3c348
+      internalID: 1122729225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1605
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6d3c3fc77fd3e4ba87442bfa4bcc34
+      internalID: 828414995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_8
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1605
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9283d3ab2a4974ea179f1a10c72142
+      internalID: 1091761825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1605
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87cfad7b34c78438dfc2833daf0c67
+      internalID: -1170466568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1605
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5799610952e23e4aa967be6e60fb09f
+      internalID: 1148016907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1605
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7876226f280527b4ea45678b0b22c263
+      internalID: 1466591263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1541
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac2852d762e4764eaed7d0fa8f2f39d
+      internalID: 1138880931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1541
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434fe0538a7d464408a71bb74fbc7a6e
+      internalID: -1350829672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1541
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5348647339d21034ca0e1bad4b214657
+      internalID: 518240298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1541
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedbf6960c592ae42bbf4801eedf1cec
+      internalID: -682173306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1541
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1402e81f5036c4f9f1a2828841fe69
+      internalID: -990394400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1541
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa36c622622e19341b79c54b64c669bd
+      internalID: 943371911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_18
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1541
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9136ab255f9f914bbc5c38109e058c2
+      internalID: -728929012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1541
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2ded610c69c594bb4a8421394a9054
+      internalID: 102083368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_20
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1541
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dbeebd50a067e4caa0fc219cb443fc
+      internalID: -880079100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_21
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1541
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f3b48e509f06e489c6098bfc9b9adc
+      internalID: 2101678285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_22
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1541
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ced499e2339a88499ff99d7267682c4
+      internalID: 997411454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_23
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1541
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f96850ca2b80f44a30c5c2ab169a7a
+      internalID: 2124461776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1477
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79943c1914933954ab3bbb82a1b4e1e2
+      internalID: -2099498782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_25
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1477
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b871c1888f379544684289a0a87f8f36
+      internalID: 267142819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1477
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9528b9d2d8ee14ebe3c7fe2af85f2b
+      internalID: -196660162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_27
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1477
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e01c6f26461b1498b396037a563dbf
+      internalID: -1737209560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1477
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9cf2a25aac3024891967a295616510
+      internalID: -1481105291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1477
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ce3c84aabc3b045b1e95aec15a7032
+      internalID: -1804377127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_30
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1477
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3126e948fe5054f47899b70413f9e2a9
+      internalID: 1830331010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_31
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1477
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c3b5786ba7db74db7d0c773468adc7
+      internalID: 631621985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_32
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1477
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c98d56c57c387640b1e70955b0fb73b
+      internalID: -1456865753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_33
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1477
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b39f7f75efab1e44b75039d4bfbb678
+      internalID: -518136622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1413
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a248a84c3787141b75c9de56ae3ad0
+      internalID: -995890259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_35
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1413
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f01e0a22a011f4cbdee1ee0c9aa1fc
+      internalID: 918771440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1413
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c618a2c8ca1996447a80d913f5fba611
+      internalID: 633289492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1413
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe3a1a80cb02e94b9aa5a56d9f3bce6
+      internalID: -2116105255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_38
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1413
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf081d8bc74a6d3449c646fd2825ea49
+      internalID: 377854165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_39
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1413
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7a4b64c99d75b419fe36a111b381c5
+      internalID: 1950069664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_40
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1413
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91884ea81522e6647a4b3031209a459a
+      internalID: 1360588357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_41
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1413
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1916f8098355e04a82604cb67dadcc6
+      internalID: -377800828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1413
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ed2aea77e8af74c90c47c51e40511a
+      internalID: -1252754711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_43
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1413
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c663fd7b8946408f65884594d6e2c
+      internalID: 1737795476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_44
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1413
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59f21fae63b52f4bbaeaf4e186aa7cf
+      internalID: 2023658646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_45
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1413
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0353b909088a9fe4ca90dcfcbce1dd3a
+      internalID: 390608167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1349
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5297ee6ed2d9c40ab68ac1e59d9469
+      internalID: -1205744048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_47
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1349
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cc870f24d2fc2469622347f36d758b
+      internalID: -1788513454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_48
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1349
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac4e286605c9ab449d91416cbfab096
+      internalID: -265928619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1349
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2c335799444e745bbac169530b6d79
+      internalID: 1830933623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_50
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1349
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44655281a92568c48ade00e60a5d79eb
+      internalID: -935158778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_51
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1349
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242f8863cc5aa57499a859b0d72a6a31
+      internalID: 1654997926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_52
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1349
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb805792fb160644aecb2f659a8c78e
+      internalID: -1006132656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_53
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1349
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23174eb1996ae254b933447d8b9afe96
+      internalID: -109746620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_54
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1349
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b26952b85461954db8f72d740768798
+      internalID: -44553822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_55
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1349
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a24a66e3e29064ab48f3f3eb9c69f2
+      internalID: -250147642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1285
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a1f4ad6f3dea249b95fac89fa677b1
+      internalID: 993082706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_57
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1285
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763baea60cf8fe945aeec68c20de7a2d
+      internalID: 54688848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_58
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1285
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871184ecb02e3c245b6b4b45fb094fdd
+      internalID: 1655837797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_59
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1285
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4145b23d070d74ea2101bec07bf52a
+      internalID: 61706815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_60
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1285
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1ef71863da3c448ab22e2bdd8e7b86
+      internalID: -704170626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_61
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1285
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c077e8465ed0e0d4a91daddc8965dd71
+      internalID: 1610163499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_62
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1285
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2365c75e7f4cdb043ae44d24dc97f50e
+      internalID: -762632449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_63
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1285
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73161e6b46ff45d4486e4c808874a4cf
+      internalID: -1484899021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_64
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1285
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309ad852509d2a34e8a71ea8dc415768
+      internalID: 692285673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_65
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1285
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b39c01085456942ba9db1c35c2b608
+      internalID: -1128378841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_66
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1285
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9f78f807457b841847ec8813667f95
+      internalID: -397167702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_67
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1285
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebaa6629fd0a1c4f9fc345d5f0d4938
+      internalID: -1245146631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_68
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1221
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09ed41a519a623449305a00c69b3864
+      internalID: 1738342751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_69
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1221
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2f16eebbf9656438555b6ae4c1b1f1
+      internalID: -1358891836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_70
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1221
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3443877133ad01d4db54db7d46eb6f80
+      internalID: -152312383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_71
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1221
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6956c89e5031641b005dfb96abf6d9
+      internalID: -254675555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_72
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1221
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42393af5f5c25a64f94f71d3031bdde7
+      internalID: -1124046624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_73
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1221
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90024bb22cc6a541936a80ddc22059a
+      internalID: -1596259845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_74
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1221
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e347c20b989fac43b9eceabcbff162e
+      internalID: 1410835066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_75
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1221
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3e7f893383128488e5f9484b952375
+      internalID: 77869384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_76
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1221
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eab569ed6e4e64cacf868824cc4c66
+      internalID: 1718475535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_77
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1221
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18fcf8331ab4cd48beedc90c6a1ee5c
+      internalID: 1646504958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_78
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1221
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0074e84b923ed4183cd36296e0fcf7
+      internalID: -1095530904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_79
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1221
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d96fe9deb7fdc4b9898161537e52e2
+      internalID: 196847819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_80
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1157
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3198ca0b24388fa408c734aa05a1790a
+      internalID: -119385299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_81
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1157
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b19dc51f037de249b8adc8a6390aaf4
+      internalID: -2060868050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_82
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1157
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04636973f4421104c98fb86150e5952d
+      internalID: -1456822314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_83
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1157
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3da49584f49fef47b13961ef3311ee1
+      internalID: 1175510214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_84
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1157
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02e919657a9ae14fabf2715da74df59
+      internalID: -163618567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_85
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1157
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c2848fe5bd2de44a7cca313647c959
+      internalID: -593053557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_86
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1157
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6ace72a6e619b47a674f7bd2b8643b
+      internalID: 1022563052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_87
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1157
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7908867161ecf414b862b403bb148d07
+      internalID: 1452203601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_88
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1157
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa970b25a0c1d04caa83b145fbfa42d
+      internalID: 1904957380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_89
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1157
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120195e3220eee14f8d1c31542fe2819
+      internalID: 4394104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_90
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1157
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759410a8c61549644bcb6e3833d92a96
+      internalID: -899340144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_91
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1157
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da35b8ca58e6af42b5d873589195999
+      internalID: -388849450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_92
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1093
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43543890b1c62b34e8bd792718d8f927
+      internalID: -1309738344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_93
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1093
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e9e0e792276644d8c6a6e1e0c34a59
+      internalID: 521551411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_94
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1093
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8d5e4a4401134d9ff481f8bfdd0e6
+      internalID: -545728643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_95
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1093
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9686de8367e07744da431a0803f0465a
+      internalID: 110425938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_96
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1093
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2bd97221c89164382abbd7894e392b
+      internalID: 1769394898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_97
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1093
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971e5af69502f634695b851a80d4bf1d
+      internalID: 689072026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_98
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1093
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a9fbabb4a9a2a479378dbddd683a11
+      internalID: -1713328641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_99
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1093
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406996b143eff234d9801098a01cee8e
+      internalID: 29164659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_100
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1093
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3578ef66146444b81ed2b46f966c6a
+      internalID: 549974068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_101
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1093
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6958fd003468a2143a0cb486717aeb39
+      internalID: -1142134203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_102
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1093
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74964c06a33a0644ca180e227c1ccab1
+      internalID: 1715893194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_103
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1093
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d90034207b9b44b0a2b72c3024c93
+      internalID: 1908114678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_104
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1029
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e2f842ab650964bb5afe043e9953e5
+      internalID: 374861922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_105
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1029
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60397d0e17cb5b41813ce366521be74
+      internalID: 641307502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_106
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1029
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a08622a3d2fa942a053088d1e37967
+      internalID: -137351449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_107
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1029
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fc24799cd96b64794719300d6622d2
+      internalID: 1537023206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_108
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1029
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bfb6f8806c49549aaca1b99c394c84
+      internalID: 1243140186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_109
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1029
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9584ce36cf3fd41aa2bf4a1e701f8d
+      internalID: -1551432230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_110
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1029
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce0ffd41bddaff47b66dca3fb65958b
+      internalID: -1467166788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_111
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 965
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745c8ccd59b701f468c63d494017b767
+      internalID: 1581309428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_112
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 965
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d3ef57667d3ca49b240cc3e6f510a8
+      internalID: -26753142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_113
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 965
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af47b490ea3d084ebb2d5a2068f44cd
+      internalID: -627890205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_114
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 965
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c691b97808ef0b4c9a27b57d99600d1
+      internalID: 2090208397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_115
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 965
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cbc7a09782dbf41a8d85df370bb233
+      internalID: 172338200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_116
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 965
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30969589eb61b33449da8ae699d6db2c
+      internalID: 666065924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_117
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 965
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169507180d6b36c428d83b491212741d
+      internalID: -545958274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_118
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 901
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebe03abfbc9e994191b5b8ab7657ab1
+      internalID: 1735431517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_119
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 901
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aab579c07927f47836b165a8a0a483
+      internalID: -536976169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_120
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 901
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ee284eec2de7a4ea4325ec6bcde7f5
+      internalID: 694053054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_121
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 901
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfb52ca52a84394dab49e62fe7efe65
+      internalID: 129244792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_122
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 901
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374c21cfa9ed51f49aaacd1d061c4b42
+      internalID: 1592858400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_123
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 901
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd1c6e0839267b4488221685906de3d
+      internalID: 813031041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_124
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 901
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047e489ecb9c01644b874e4bb66c8db0
+      internalID: 972843379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_125
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 901
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56d4b9cd92dc4745b7e26cf8c8239f0
+      internalID: 1738646880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_126
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 901
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b96f31a892dba4fa0894c6c38643fe
+      internalID: -291666167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_127
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 901
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0003ecd20796f9244be8cecb7befec96
+      internalID: 1458187395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_128
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 901
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071650cf7d062e84a88c3655f541f894
+      internalID: -1483995998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_129
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 901
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0940e78909451c744a5d9e517968f66d
+      internalID: -1848312189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_130
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 837
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86255492689560e4597c8a716aaf4848
+      internalID: -1057747807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_131
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 837
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8efd87403ab68d48992ebdd9799fcb0
+      internalID: -1423013894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_132
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 837
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3400f63b13508d243ba73978f3045a1d
+      internalID: 1410604086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_133
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 837
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cafb567bf920446999d1435d669182
+      internalID: 2134532180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_134
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 837
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4d2adb4c37e7346a2907044aa3111e
+      internalID: -1303948776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_135
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 837
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371f3b1be96925149801cf33cceca01f
+      internalID: -292358208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_136
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 837
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ceb8a93766bc4ba88743718126a61
+      internalID: 1631613149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_137
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 837
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449ce68e68ba61f4abf216732a83a658
+      internalID: 604600210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_138
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 837
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817829867dd791f47bac90c75c88b7e5
+      internalID: 1857561793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_139
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 837
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155e240121f50274a8f2f97f02aacbd9
+      internalID: -1924753387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_140
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 837
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cde7e88ee6e2b4b8ac4d7c18580151
+      internalID: -256311388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_141
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 837
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e92dd28159d57847866aae216ddd4c1
+      internalID: 1795767338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_142
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 773
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe73ea3d2757624cb25ae435014beca
+      internalID: 1342819850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_143
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 773
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a3be8098510fd44856f18768e1ba6f
+      internalID: -1937914077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_144
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 773
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e6cd7ff8df81141a032ae6cac463ca
+      internalID: -1560845461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_145
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 773
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9107d45aea042d4458f4b450979c7400
+      internalID: 620136731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_146
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 773
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aac65702d98cbc49809ee80cb1a2945
+      internalID: -1274293337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_147
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 773
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32217f41393120247b8bc4aaaca24c9f
+      internalID: 1014744989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_148
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 773
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7aa477325cdfb438776fc3d796aeb1
+      internalID: -1756098201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_149
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 773
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef304d517f2511046a62132de2afa3ff
+      internalID: -1482164975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_150
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 773
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3332f3d67b5a94346acd841889c018ed
+      internalID: 715197014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_151
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 773
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc078f940f2c1d43979ce04e571d289
+      internalID: 1005792418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_152
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 773
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640132780839797468db5b2af0b12186
+      internalID: -1266233217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_153
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 773
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4838697e855330e4d9924d5c99e6516d
+      internalID: -1764970764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_154
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 709
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aefe03b0e291484c80509052361ffe8
+      internalID: 626604991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_155
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 709
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58291214f947b7348ac49971e3b18a9a
+      internalID: -1635347928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_156
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 709
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62957df2c5e71ff439e79ebacf7938f0
+      internalID: -685500487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_157
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 709
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb61e0afd7558249a4265b4341046f5
+      internalID: 1453683526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_158
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 709
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983e9c8fb63c4e44d8b85b22c4406492
+      internalID: -182673853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_159
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 709
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603f0ad9130e00049ab7e5927f326623
+      internalID: 598777189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_160
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 709
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf390b61171f4d42b94c9618b8ff6c5
+      internalID: 1521848256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_161
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 709
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0ab79027f3bce4c855d87a2c1ac343
+      internalID: -2097213987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_162
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 709
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a171b3136529374b8f8ac55b2bc77c7
+      internalID: -1033784840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_163
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 709
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732ade39f67aee14e894b613e932a9ad
+      internalID: -669210100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_164
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 709
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4fe1bf3ec35824fa4ec6b8c2d4fa5e
+      internalID: 238024910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_165
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 709
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ec565029ad8544e8aef64b2221c357
+      internalID: 306968889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_166
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 645
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c185cd56bfed2c4b8eb8d4e18147cb9
+      internalID: 978934824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_167
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 645
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2c9a949170c9b418a7573f01e9ae06
+      internalID: 1330000625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_168
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 645
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a485949f5c1f9a4b8a02f045cf9fc95
+      internalID: -1102289898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_169
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 645
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7233f8c32adf345b2096245f63f931
+      internalID: 792315894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_170
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 645
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ef437dda7f1214e82980d288ad7689
+      internalID: 1698334169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_171
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 645
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17706de5353502f448c02abbfa5c186f
+      internalID: -2079611067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_172
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 645
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e628dccfcef144dac3f89ea9a783c6
+      internalID: -440979319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_173
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 645
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eadd4a38e246d439f65d74e9d1ae91
+      internalID: -1391994552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_174
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 581
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7563127df669b47847d2285dec5514
+      internalID: -197106663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_175
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 581
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273f1c2c04302524eb2efd7e292a5942
+      internalID: -783431394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_176
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 581
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7715a0a702c83dd4dae1867f27e2eb36
+      internalID: -872531992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_177
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 581
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653fe8b876f296c4284fc3bcaa05b97e
+      internalID: 1489098129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_178
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 581
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3938ac67314e1a74aa79c043bd8e7475
+      internalID: -878237443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_179
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 581
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b51fa64c2fe7f14a866a443fcebf1c9
+      internalID: -876085124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_180
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 581
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29afef808ae193d4697911874017fc9e
+      internalID: -1552077864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_181
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 581
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b33ba8bcd690e4a8f98788fac8a257
+      internalID: -1465666705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_182
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 581
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb16355376976a4fb6c684b25116d2c
+      internalID: -1085407675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_183
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 581
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8544efb0789cf444b248b0e9429fc41
+      internalID: 1814343355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_184
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 517
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcebd58cd60456488d26a820661222c
+      internalID: -154996930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_185
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 517
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08ff9e6800b1ba4eaa4d8396b222599
+      internalID: 613038228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_186
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 517
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92de33163d12c6647818bec8df9b89dd
+      internalID: -1373899768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_187
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 517
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f4ae32c2a9e1a4284e7cbf70cd7b19
+      internalID: -212321764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_188
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 517
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc1b29c6cdf73947b874f6a6c6766aa
+      internalID: 1332203128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_189
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 517
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457e01311490fa24fb991562eded936a
+      internalID: 436474808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_190
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 517
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74294268d9ef2144ba89f5a372b13e39
+      internalID: -1356142970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_191
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 517
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dbee930f95064458fb4cea35837ffc
+      internalID: 1137593550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_192
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 517
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c49d5f0179cca948b9934833baf4d48
+      internalID: 1430276897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_193
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 517
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc41ed48f0152bd4cb24a27d4361348a
+      internalID: 1920360568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_194
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 453
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7c99d60e8e8594983632e142e30852
+      internalID: 1191562304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_195
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 453
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27337a82f89ed6a48b9ed4207ecd4b43
+      internalID: -642319870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_196
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 453
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d70586ee8a3b246bd2d77802f63def
+      internalID: -1052934000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_197
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 453
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99662f4892a0cf4c9746789dc71daa8
+      internalID: -904909355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_198
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 453
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f3b356cb9991c4981150a2e058670c
+      internalID: 1276077830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_199
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 453
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7598da18cbe7447882e39258569a8f
+      internalID: 1265808410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_200
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 453
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aac2b96cf2d8244b433364b24f14f5
+      internalID: -1914734484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_201
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 453
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d005cd52c277894aa16f8610c8085ed
+      internalID: 827128014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_202
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 453
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f97a09039e3d45b1f942aecf26360
+      internalID: 2073361659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_203
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 453
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b4e1dfbd92b9a4b940aafdb81cd77e
+      internalID: 1109441648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_204
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 453
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad925c015bf0ae44c889d0b6275177c2
+      internalID: 1386674169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_205
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 453
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b96cdfa155db19439eed48a5627bf1c
+      internalID: -1794227278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_206
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 389
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e155e9b0e94d0459ca1d77d93918eb
+      internalID: 1665243791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_207
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 389
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf62855557e8c84f8cb0d7c046ea3b5
+      internalID: 952727284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_208
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 389
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39b204607e3b7e4a8093674246b41e3
+      internalID: 1623357175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_209
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 389
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61254009be4042d4889c46570d9bf8d3
+      internalID: 864822389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_210
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 389
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cbdda0813023745a34536001a4a3a6
+      internalID: 1934564912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_211
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 389
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d877987209d4b4a9a9a095b6a3668a
+      internalID: 1546474388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_212
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 389
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8afc6a4f87eb3c46804b1cf0f6ee98e
+      internalID: 302745363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_213
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 389
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444e671865691484f8cdcc2d4b4aa196
+      internalID: -1208917627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_214
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 389
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484cc0ada6fdc5f488ef50ef956daa5e
+      internalID: -449411537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_215
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 389
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e53c9ce1ac28945b68abe74c8d97a4
+      internalID: 1775269073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_216
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 389
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55f2b677eba2ee448b9e6847d08b18b
+      internalID: -64120563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_217
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 389
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ba8de9bfffb6f469ffe4247fabbc03
+      internalID: -288149500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_218
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 325
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0792c6988a66c44b33e1a255ab8674
+      internalID: 713749254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_219
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 325
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924ec0bdb8f06cc449bcb4ff6c6ded1a
+      internalID: -1314050516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_220
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 325
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87c9243984efd14190764c4d715b0b7
+      internalID: 974540615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_221
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 325
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a62dcc9761f6784b8d829db7156a5c9
+      internalID: -746836830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_222
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 325
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b43714dd978ab4b95b50b1b6c3e2ea
+      internalID: -1586286546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_223
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 325
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcda73f120ad604c98b301d49a4242f
+      internalID: 923229778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_224
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 325
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb4d5b74309d4243853d1a917970acb
+      internalID: 1638702660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_225
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 325
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c9ee7ac843f4d40b59dc4410043e8b
+      internalID: 1960123615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_226
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 325
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bed3fb56a3c76547acc01b6f359cbb6
+      internalID: 1180703661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_227
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 325
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd08d9876571fce47ba24d4a5cf683c6
+      internalID: 610164673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_228
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 325
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf5901ee91268e41ad3c0cc37fcc1d0
+      internalID: 565994987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_229
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 325
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80694de39358d074683f09e66f4f4a36
+      internalID: -1581853655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_230
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 261
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74864ea6f1c4f184b983b78df01a988f
+      internalID: -544985492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_231
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 261
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e730824741147441ab5fb66c4d48e75
+      internalID: 47510312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_232
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 261
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b28e76cafa8ed49bb9016fe818583f
+      internalID: 768368280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_233
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 261
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483e729036be5d04a8b2fba87bab232b
+      internalID: -962156454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_234
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 261
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749e9dd1d8aa06949bcfa5721cb01d33
+      internalID: 744293050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_235
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 261
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57c7f0533c7f554da4f83436396c82a
+      internalID: 478561771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_236
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 261
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94e1b83cce994b4a871d524a72c201f
+      internalID: 1609785093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_237
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 261
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3758a1517b2bc334394d8916862bccd3
+      internalID: 1283913407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_238
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 261
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc0a928a2217384086f091cb98390a8
+      internalID: -1233656223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_239
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 261
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1932b0f5bea1b4987a2a305ad71b10
+      internalID: 974453465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_240
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 261
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1c5bb3d1100da4fb6d4329f6be58b3
+      internalID: -1144991367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_241
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 261
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84096d2e757ba194295948244c90cd30
+      internalID: -1905818839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_242
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b24e16d6cb2c8041919f2cea14b6ae8
+      internalID: -1020989903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_243
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 197
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb7351772e2ba439898cb602b4a399
+      internalID: 763837961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_244
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 197
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3822659dae257b4d90cf07ce1d4b320
+      internalID: 267899841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_245
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 197
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c056f0d201317a740b35a3b39c15596a
+      internalID: 1304427893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_246
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 197
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2eee1bab63b2d4b9d06c243e9e3159
+      internalID: 26100666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_247
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 197
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b93da0baf379e4382ee8d123d9718b
+      internalID: -1038730971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_248
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 197
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf56252ef4006a94c93090c78f9055e5
+      internalID: -1548290620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_249
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 197
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ebf548c8188fd44b7b553ee04c2bf9
+      internalID: 1184504531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_250
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 197
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f396412dbd67b9d459b366b037e1b2b7
+      internalID: 442726090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_251
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 197
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fac342ac2d7c44d9cd915b9dcbcd6d
+      internalID: -649009443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_252
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 197
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3bc2f0fccb60b4bb018e4116c9c86e
+      internalID: -1979447902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_253
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 197
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd7047fd772d8a4dbd82684d711aa52
+      internalID: 1955276102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_254
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 133
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec638c8070d2c2459bdb984a766c599
+      internalID: -174813934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_255
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 133
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388cb8b98bef8744ab542ad6f2723bde
+      internalID: -619383110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_256
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 133
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786733516b023c54781d94ef3619092c
+      internalID: 1935863253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_257
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 133
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee199b1bc645fb4e938358eb3719c13
+      internalID: -790435615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_258
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 133
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b278c69ca1965f499f71b1c3980ce9d
+      internalID: 2057600551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_259
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 133
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f34cce7cbd4f04582e561947b47d19
+      internalID: 424284304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_260
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 133
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fced3ac1c363b14fbcd77e93896f71e
+      internalID: -1768070925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_261
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 133
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6086ec050744aba41a7be62e4671eb6f
+      internalID: 1643530303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_262
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 133
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93e94bff405729408f35516e5490e92
+      internalID: -280152456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_263
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 133
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817d215edabc10e4f8acd7e1c6b3c8ef
+      internalID: 1639344746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_264
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 133
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8b68796a6d1464caf898f561a74a03
+      internalID: -1158863627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_265
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 133
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6410014dbdbb255478983b229bf98e76
+      internalID: -1925163289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_266
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 69
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b0bc9f9b4aab74cb10a5bdc17b6c08
+      internalID: 1036879671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_267
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 69
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2af2ad58505cb40a84a050b4954446
+      internalID: 923224645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_268
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 69
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793ab6e4b21a9df49a7a19390a49575b
+      internalID: 348390837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_269
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 69
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c6fde76831cb4449b0559cf523161b
+      internalID: 1665521954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_270
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 69
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c2b79ad84181d4db9800abba283e25
+      internalID: -1890161693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_271
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 69
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca13a6908f8f41449c166fe7699184d
+      internalID: -2061989929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_272
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 69
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992df222123cbca4ab98a9497fca027a
+      internalID: -107690207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_273
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 69
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c41da36daa61147acc743891834359
+      internalID: -145548395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_274
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 69
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d044794aafa0e3c4887080152969d08c
+      internalID: 192168097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_275
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 69
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb13a00332d2e2143a268cbac5642135
+      internalID: -1320261109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_276
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 69
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5975182211e898e44a79d53d8f7079b7
+      internalID: -1611040084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_277
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 69
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a7fe47e802513488f131a811ea2f8e
+      internalID: 2010105846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_278
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0754d2b317946469c4add935c646d5
+      internalID: -994389298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_279
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 5
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c383af5f51c45584e8ddba4fc8b55c48
+      internalID: -323237437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_280
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbe93691532c2f43b62e3f68bff95ee
+      internalID: -1738953292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_281
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 5
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7a1c293a5070941bb44dfff353703e
+      internalID: 476349562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_282
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 5
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb2c834f063ed04ab3a781a585fe2bd
+      internalID: -1687920784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_283
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 5
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c7f11fa65901042865ebc3523d5104
+      internalID: -238417891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_284
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 5
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da10bb8b69d2abf47ae39922f8f7fc07
+      internalID: -1437473429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_285
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 5
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe77cae62f172394795c5e7942a6716d
+      internalID: 301781414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_286
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 5
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ed6608ea5eac3409a6127969bb041b
+      internalID: -1168176422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_287
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 5
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf5ed9c25157c74a8a3c98bc46fa298
+      internalID: -1461660443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_288
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 5
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a054c5bd60d7004b8d4b997123b75e8
+      internalID: -207990608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green moss and rocky walls_289
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 5
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a13d79c51a9ba64cb2beae5e96c7b2f
+      internalID: -308392320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Green moss and rocky walls_84: -163618567
+      Green moss and rocky walls_246: 26100666
+      Green moss and rocky walls_87: 1452203601
+      Green moss and rocky walls_196: -1052934000
+      Green moss and rocky walls_258: 2057600551
+      Green moss and rocky walls_122: 1592858400
+      Green moss and rocky walls_271: -2061989929
+      Green moss and rocky walls_235: 478561771
+      Green moss and rocky walls_265: -1925163289
+      Green moss and rocky walls_150: 715197014
+      Green moss and rocky walls_35: 918771440
+      Green moss and rocky walls_13: -1350829672
+      Green moss and rocky walls_127: 1458187395
+      Green moss and rocky walls_273: -145548395
+      Green moss and rocky walls_19: 102083368
+      Green moss and rocky walls_131: -1423013894
+      Green moss and rocky walls_5: -326132055
+      Green moss and rocky walls_43: 1737795476
+      Green moss and rocky walls_77: 1646504958
+      Green moss and rocky walls_31: 631621985
+      Green moss and rocky walls_15: -682173306
+      Green moss and rocky walls_107: 1537023206
+      Green moss and rocky walls_70: -152312383
+      Green moss and rocky walls_279: -323237437
+      Green moss and rocky walls_253: 1955276102
+      Green moss and rocky walls_83: 1175510214
+      Green moss and rocky walls_91: -388849450
+      Green moss and rocky walls_137: 604600210
+      Green moss and rocky walls_18: -728929012
+      Green moss and rocky walls_146: -1274293337
+      Green moss and rocky walls_7: 828414995
+      Green moss and rocky walls_206: 1665243791
+      Green moss and rocky walls_211: 1546474388
+      Green moss and rocky walls_266: 1036879671
+      Green moss and rocky walls_174: -197106663
+      Green moss and rocky walls_74: 1410835066
+      Green moss and rocky walls_147: 1014744989
+      Green moss and rocky walls_141: 1795767338
+      Green moss and rocky walls_188: 1332203128
+      Green moss and rocky walls_132: 1410604086
+      Green moss and rocky walls_24: -2099498782
+      Green moss and rocky walls_58: 1655837797
+      Green moss and rocky walls_52: -1006132656
+      Green moss and rocky walls_97: 689072026
+      Green moss and rocky walls_102: 1715893194
+      Green moss and rocky walls_69: -1358891836
+      Green moss and rocky walls_198: 1276077830
+      Green moss and rocky walls_187: -212321764
+      Green moss and rocky walls_118: 1735431517
+      Green moss and rocky walls_89: 4394104
+      Green moss and rocky walls_162: -1033784840
+      Green moss and rocky walls_195: -642319870
+      Green moss and rocky walls_136: 1631613149
+      Green moss and rocky walls_44: 2023658646
+      Green moss and rocky walls_71: -254675555
+      Green moss and rocky walls_153: -1764970764
+      Green moss and rocky walls_234: 744293050
+      Green moss and rocky walls_283: -238417891
+      Green moss and rocky walls_233: -962156454
+      Green moss and rocky walls_125: 1738646880
+      Green moss and rocky walls_3: 18189702
+      Green moss and rocky walls_212: 302745363
+      Green moss and rocky walls_25: 267142819
+      Green moss and rocky walls_38: 377854165
+      Green moss and rocky walls_165: 306968889
+      Green moss and rocky walls_94: -545728643
+      Green moss and rocky walls_149: -1482164975
+      Green moss and rocky walls_160: 1521848256
+      Green moss and rocky walls_191: 1137593550
+      Green moss and rocky walls_168: -1102289898
+      Green moss and rocky walls_120: 694053054
+      Green moss and rocky walls_242: -1020989903
+      Green moss and rocky walls_229: -1581853655
+      Green moss and rocky walls_262: -280152456
+      Green moss and rocky walls_269: 1665521954
+      Green moss and rocky walls_121: 129244792
+      Green moss and rocky walls_179: -876085124
+      Green moss and rocky walls_210: 1934564912
+      Green moss and rocky walls_249: 1184504531
+      Green moss and rocky walls_251: -649009443
+      Green moss and rocky walls_12: 1138880931
+      Green moss and rocky walls_14: 518240298
+      Green moss and rocky walls_247: -1038730971
+      Green moss and rocky walls_219: -1314050516
+      Green moss and rocky walls_1: -1418415653
+      Green moss and rocky walls_68: 1738342751
+      Green moss and rocky walls_73: -1596259845
+      Green moss and rocky walls_53: -109746620
+      Green moss and rocky walls_17: 943371911
+      Green moss and rocky walls_144: -1560845461
+      Green moss and rocky walls_259: 424284304
+      Green moss and rocky walls_8: 1091761825
+      Green moss and rocky walls_11: 1466591263
+      Green moss and rocky walls_109: -1551432230
+      Green moss and rocky walls_143: -1937914077
+      Green moss and rocky walls_163: -669210100
+      Green moss and rocky walls_282: -1687920784
+      Green moss and rocky walls_110: -1467166788
+      Green moss and rocky walls_4: 408649654
+      Green moss and rocky walls_250: 442726090
+      Green moss and rocky walls_185: 613038228
+      Green moss and rocky walls_161: -2097213987
+      Green moss and rocky walls_164: 238024910
+      Green moss and rocky walls_172: -440979319
+      Green moss and rocky walls_222: -1586286546
+      Green moss and rocky walls_90: -899340144
+      Green moss and rocky walls_285: 301781414
+      Green moss and rocky walls_47: -1788513454
+      Green moss and rocky walls_40: 1360588357
+      Green moss and rocky walls_287: -1461660443
+      Green moss and rocky walls_275: -1320261109
+      Green moss and rocky walls_228: 565994987
+      Green moss and rocky walls_272: -107690207
+      Green moss and rocky walls_10: 1148016907
+      Green moss and rocky walls_139: -1924753387
+      Green moss and rocky walls_80: -119385299
+      Green moss and rocky walls_88: 1904957380
+      Green moss and rocky walls_32: -1456865753
+      Green moss and rocky walls_85: -593053557
+      Green moss and rocky walls_126: -291666167
+      Green moss and rocky walls_244: 267899841
+      Green moss and rocky walls_128: -1483995998
+      Green moss and rocky walls_0: -254796563
+      Green moss and rocky walls_138: 1857561793
+      Green moss and rocky walls_65: -1128378841
+      Green moss and rocky walls_41: -377800828
+      Green moss and rocky walls_133: 2134532180
+      Green moss and rocky walls_151: 1005792418
+      Green moss and rocky walls_284: -1437473429
+      Green moss and rocky walls_200: -1914734484
+      Green moss and rocky walls_197: -904909355
+      Green moss and rocky walls_257: -790435615
+      Green moss and rocky walls_264: -1158863627
+      Green moss and rocky walls_9: -1170466568
+      Green moss and rocky walls_255: -619383110
+      Green moss and rocky walls_130: -1057747807
+      Green moss and rocky walls_213: -1208917627
+      Green moss and rocky walls_93: 521551411
+      Green moss and rocky walls_119: -536976169
+      Green moss and rocky walls_33: -518136622
+      Green moss and rocky walls_112: -26753142
+      Green moss and rocky walls_178: -878237443
+      Green moss and rocky walls_248: -1548290620
+      Green moss and rocky walls_166: 978934824
+      Green moss and rocky walls_231: 47510312
+      Green moss and rocky walls_186: -1373899768
+      Green moss and rocky walls_209: 864822389
+      Green moss and rocky walls_34: -995890259
+      Green moss and rocky walls_56: 993082706
+      Green moss and rocky walls_155: -1635347928
+      Green moss and rocky walls_2: -1302611243
+      Green moss and rocky walls_176: -872531992
+      Green moss and rocky walls_81: -2060868050
+      Green moss and rocky walls_42: -1252754711
+      Green moss and rocky walls_108: 1243140186
+      Green moss and rocky walls_183: 1814343355
+      Green moss and rocky walls_20: -880079100
+      Green moss and rocky walls_78: -1095530904
+      Green moss and rocky walls_286: -1168176422
+      Green moss and rocky walls_101: -1142134203
+      Green moss and rocky walls_111: 1581309428
+      Green moss and rocky walls_116: 666065924
+      Green moss and rocky walls_182: -1085407675
+      Green moss and rocky walls_177: 1489098129
+      Green moss and rocky walls_201: 827128014
+      Green moss and rocky walls_207: 952727284
+      Green moss and rocky walls_190: -1356142970
+      Green moss and rocky walls_268: 348390837
+      Green moss and rocky walls_239: 974453465
+      Green moss and rocky walls_173: -1391994552
+      Green moss and rocky walls_36: 633289492
+      Green moss and rocky walls_95: 110425938
+      Green moss and rocky walls_214: -449411537
+      Green moss and rocky walls_114: 2090208397
+      Green moss and rocky walls_99: 29164659
+      Green moss and rocky walls_61: 1610163499
+      Green moss and rocky walls_281: 476349562
+      Green moss and rocky walls_270: -1890161693
+      Green moss and rocky walls_39: 1950069664
+      Green moss and rocky walls_67: -1245146631
+      Green moss and rocky walls_96: 1769394898
+      Green moss and rocky walls_218: 713749254
+      Green moss and rocky walls_194: 1191562304
+      Green moss and rocky walls_221: -746836830
+      Green moss and rocky walls_16: -990394400
+      Green moss and rocky walls_92: -1309738344
+      Green moss and rocky walls_277: 2010105846
+      Green moss and rocky walls_288: -207990608
+      Green moss and rocky walls_103: 1908114678
+      Green moss and rocky walls_140: -256311388
+      Green moss and rocky walls_263: 1639344746
+      Green moss and rocky walls_106: -137351449
+      Green moss and rocky walls_6: 1122729225
+      Green moss and rocky walls_156: -685500487
+      Green moss and rocky walls_240: -1144991367
+      Green moss and rocky walls_170: 1698334169
+      Green moss and rocky walls_241: -1905818839
+      Green moss and rocky walls_117: -545958274
+      Green moss and rocky walls_123: 813031041
+      Green moss and rocky walls_26: -196660162
+      Green moss and rocky walls_64: 692285673
+      Green moss and rocky walls_232: 768368280
+      Green moss and rocky walls_202: 2073361659
+      Green moss and rocky walls_261: 1643530303
+      Green moss and rocky walls_217: -288149500
+      Green moss and rocky walls_243: 763837961
+      Green moss and rocky walls_181: -1465666705
+      Green moss and rocky walls_63: -1484899021
+      Green moss and rocky walls_171: -2079611067
+      Green moss and rocky walls_82: -1456822314
+      Green moss and rocky walls_60: -704170626
+      Green moss and rocky walls_49: 1830933623
+      Green moss and rocky walls_21: 2101678285
+      Green moss and rocky walls_66: -397167702
+      Green moss and rocky walls_104: 374861922
+      Green moss and rocky walls_184: -154996930
+      Green moss and rocky walls_145: 620136731
+      Green moss and rocky walls_180: -1552077864
+      Green moss and rocky walls_86: 1022563052
+      Green moss and rocky walls_224: 1638702660
+      Green moss and rocky walls_215: 1775269073
+      Green moss and rocky walls_204: 1386674169
+      Green moss and rocky walls_159: 598777189
+      Green moss and rocky walls_75: 77869384
+      Green moss and rocky walls_76: 1718475535
+      Green moss and rocky walls_167: 1330000625
+      Green moss and rocky walls_227: 610164673
+      Green moss and rocky walls_267: 923224645
+      Green moss and rocky walls_50: -935158778
+      Green moss and rocky walls_105: 641307502
+      Green moss and rocky walls_226: 1180703661
+      Green moss and rocky walls_256: 1935863253
+      Green moss and rocky walls_134: -1303948776
+      Green moss and rocky walls_135: -292358208
+      Green moss and rocky walls_142: 1342819850
+      Green moss and rocky walls_57: 54688848
+      Green moss and rocky walls_175: -783431394
+      Green moss and rocky walls_216: -64120563
+      Green moss and rocky walls_148: -1756098201
+      Green moss and rocky walls_274: 192168097
+      Green moss and rocky walls_289: -308392320
+      Green moss and rocky walls_45: 390608167
+      Green moss and rocky walls_205: -1794227278
+      Green moss and rocky walls_236: 1609785093
+      Green moss and rocky walls_154: 626604991
+      Green moss and rocky walls_113: -627890205
+      Green moss and rocky walls_199: 1265808410
+      Green moss and rocky walls_208: 1623357175
+      Green moss and rocky walls_55: -250147642
+      Green moss and rocky walls_193: 1920360568
+      Green moss and rocky walls_30: 1830331010
+      Green moss and rocky walls_29: -1804377127
+      Green moss and rocky walls_59: 61706815
+      Green moss and rocky walls_72: -1124046624
+      Green moss and rocky walls_169: 792315894
+      Green moss and rocky walls_278: -994389298
+      Green moss and rocky walls_220: 974540615
+      Green moss and rocky walls_280: -1738953292
+      Green moss and rocky walls_27: -1737209560
+      Green moss and rocky walls_37: -2116105255
+      Green moss and rocky walls_22: 997411454
+      Green moss and rocky walls_62: -762632449
+      Green moss and rocky walls_124: 972843379
+      Green moss and rocky walls_276: -1611040084
+      Green moss and rocky walls_192: 1430276897
+      Green moss and rocky walls_225: 1960123615
+      Green moss and rocky walls_129: -1848312189
+      Green moss and rocky walls_223: 923229778
+      Green moss and rocky walls_28: -1481105291
+      Green moss and rocky walls_79: 196847819
+      Green moss and rocky walls_157: 1453683526
+      Green moss and rocky walls_189: 436474808
+      Green moss and rocky walls_100: 549974068
+      Green moss and rocky walls_51: 1654997926
+      Green moss and rocky walls_23: 2124461776
+      Green moss and rocky walls_237: 1283913407
+      Green moss and rocky walls_252: -1979447902
+      Green moss and rocky walls_115: 172338200
+      Green moss and rocky walls_238: -1233656223
+      Green moss and rocky walls_48: -265928619
+      Green moss and rocky walls_152: -1266233217
+      Green moss and rocky walls_158: -182673853
+      Green moss and rocky walls_46: -1205744048
+      Green moss and rocky walls_254: -174813934
+      Green moss and rocky walls_245: 1304427893
+      Green moss and rocky walls_203: 1109441648
+      Green moss and rocky walls_230: -544985492
+      Green moss and rocky walls_54: -44553822
+      Green moss and rocky walls_260: -1768070925
+      Green moss and rocky walls_98: -1713328641
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
